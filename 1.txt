@@ -4,6 +4,6 @@ using namespace;
 
 int main(){
     cout <<"kelazzzz"<< endl;
-    cout <<"cemazzzz"<< endl;
-     
+    cout <<"ini fitur baru"<< endl;
+     cout <<"ini fitur baru 2"<< endl;
 }
